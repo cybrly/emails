@@ -5,6 +5,10 @@ authors = ["Chris Neuwirth <cneuwirth@networkgsgroup.com>"]
 edition = "2021"
 description = "A web scraper to extract email addresses from websites."
 license = "MIT"
+repository = "https://github.com/cybrly/emails"
+homepage = "https://github.com/cybrly/emails"
+documentation = "https://github.com/cybrly/emails"
+readme = "README.md"
 keywords = ["email", "scraper", "web", "crawler"]
 categories = ["command-line-utilities", "web-programming::http-client", "parsing::text-processing"]
 
