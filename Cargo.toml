@@ -10,7 +10,7 @@ homepage = "https://github.com/cybrly/emails"
 documentation = "https://github.com/cybrly/emails"
 readme = "README.md"
 keywords = ["email", "scraper", "web", "crawler"]
-categories = ["command-line-utilities", "web-programming::http-client", "parsing::text-processing"]
+categories = ["command-line-utilities", "web-programming::http-client"]
 
 
 [dependencies]
